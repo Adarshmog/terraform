@@ -1,0 +1,5 @@
+digraph G {
+  rankdir = "RL";
+  node [shape = rect, fontname = "sans-serif"];
+  "random_pet.student_pet" [label="random_pet.student_pet"];
+}
